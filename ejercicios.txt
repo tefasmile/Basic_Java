@@ -1,0 +1,23 @@
+//Indicaciones
+Realizar 19 ejercicios en lenguaje java (if-simples)
+
+1-calificacion
+2-empleado
+3-parqueadero
+4-market
+5-inversion
+6-calorias
+7-clave
+8-llantera
+9-promocion
+10-pulsaciones
+11-seguros
+12-colegiatura
+13-enganchecasa
+14-sar
+15-negocio
+16-bosque
+17-fabrica
+18-devaluacion
+
+C:\ADSI-SENA\NURDERLY\LPP\explicaciones_algoritmia\ejercicios.condicionales_1
